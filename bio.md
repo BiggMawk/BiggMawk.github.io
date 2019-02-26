@@ -1,5 +1,5 @@
 # This is my Bio
-Born January 17th 1995 in Baltimore, MD. BiggMawk has been creating new begining for people since his early childhood days, being gifted with his heroic ability at the early age of 9. At the age of 16, BiggMawk's gift had evolved into a talent that has been acknowledged by his peers.
+Born January 17th 1995 in Baltimore, MD. BiggMawk has been creating new beginings for people since his early childhood days, being gifted with his heroic ability at the early age of 9. At the age of 16, BiggMawk's gift had evolved into a talent that has been acknowledged by his peers.
 
 ![Mawk](Mark.JPG)
 
