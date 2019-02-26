@@ -1,6 +1,7 @@
-# Hello 
+# Hello & Welcome to My Home Page
+
 ### My name is BiggMawk
 
 This is normal text
 
-this is *italics* text
+This is *italics* text
