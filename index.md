@@ -4,6 +4,6 @@
 
 Here is a link to my *[bio](https://biggmawk.github.io/bio "bio")*
 
-![BIGG MAWK](BiggMawk.JPG)
+![BIGG MAWK](BiggMawk.JPG "BIGG MAWK")
 
-This is *italics* text
+
