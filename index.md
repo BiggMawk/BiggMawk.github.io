@@ -2,7 +2,7 @@
 
 ### My name is BiggMawk
 
-here is a little something about myself [bio](https://biggmawk.github.io/bio "bio")
+Here is a link to my *[bio](https://biggmawk.github.io/bio "bio")*
 
 This is normal text
 
